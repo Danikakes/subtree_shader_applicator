@@ -2,6 +2,13 @@
 
 `SubtreeShaderApplicator` is a helper node for pushing one material setup through an entire scene branch.
 
+Feel free to donate to my [Paypal]( https://www.paypal.com/donate/?business=WK8M59YJRAYAJ&no_recurring=0&currency_code=USD) if you like what I make :)
+
+Licensed under MIT so feel free to use it however you like. 
+
+My only ask is if you come up with a better solution to a shortcoming of this plugin, make an issue or a PR with your updates :) happy coding!
+
+
 ## What it does
 
 - For 2D, it assigns the same `Material` resource to every `CanvasItem` in the target subtree.
